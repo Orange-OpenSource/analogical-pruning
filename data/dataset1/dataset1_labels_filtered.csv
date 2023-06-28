@@ -1,0 +1,440 @@
+qid,label
+Q204833,Enhanced Data Rates for GSM Evolution
+Q483318,Symbian
+Q1505049,S/MIME
+Q15618669,product owner
+Q29169143,data scientist
+Q1254596,software as a service
+Q3109006,GlobeCast World TV
+Q816432,project manager
+Q174077,flash memory
+Q238599,5 Whys
+Q133139,electromagnetic spectrum
+Q1193354,IEEE 802.11n
+Q268201,Wireless Markup Language
+Q762660,KeePass
+Q1017587,Business Objects
+Q72588,content delivery network
+Q8248940,Bluetooth
+Q2985644,comité technique
+Q2407,C++
+Q288682,XACML
+Q9184057,CLIR
+Q44127,server
+Q22661306,Kubernetes
+Q20514253,blockchain
+Q13162,Internet Control Message Protocol
+Q336284,MPEG-1
+Q133454,high-definition television
+Q831575,Ishikawa diagram
+Q92438,microblogging
+Q11103,Internet Protocol version 4
+Q786900,MSISDN
+Q3025536,DevOps
+Q309396,keystroke logging
+Q131164,Web 2.0
+Q334765,hotspot
+Q104534,digital subscriber line
+Q1071690,chief security officer
+Q1138866,International Commission on Non-Ionizing Radiation Protection
+Q727490,scalability
+Q484598,CAPTCHA
+Q41609,Domain Name System Security Extensions
+Q193902,Galileo
+Q1933140,carbon dioxide equivalent
+Q1487,hacker
+Q11273,Moving Picture Experts Group
+Q147638,cognitive science
+Q1750812,ergonomics
+Q257597,SWIFT
+Q721869,Reverse Address Resolution Protocol
+Q1665102,Institut national de l'information géographique et forestière
+Q759676,task
+Q3510521,computer security
+Q51731363,Point-to-Point Protocol over AAL2
+Q309901,open data
+Q10322548,MQTT
+Q978801,mobile country code
+Q1026962,digital humanities
+Q135005,phishing
+Q678615,CompactFlash
+Q276582,binary-coded decimal
+Q1091139,Enhanced Interior Gateway Routing Protocol
+Q207819,Standard Generalized Markup Language
+Q9158,email
+Q739120,HTTP/2
+Q1057712,FTPS
+Q1958286,web indexing
+Q21204,International Phonetic Alphabet
+Q1240788,supervisor
+Q11422650,Kokusai Denshin Denwa
+Q3456896,Renater
+Q190746,Advanced Encryption Standard
+Q242506,Frame Relay
+Q2269250,kilobit per second
+Q850661,XQuery
+Q3816639,Kotlin
+Q46441,Cascading Style Sheets
+Q16340,XPath
+Q2937445,capitalization
+Q11155,Border Gateway Protocol
+Q230187,crosstalk
+Q152763,lithium compounds
+Q1502887,geodetic reference system
+Q22732,Streisand effect
+Q858810,big data
+Q9353697,TFTS
+Q171,wiki
+Q2746660,Agile Manifesto
+Q163393,Post Office Protocol 3
+Q8777,Hypertext Transfer Protocol
+Q2053,HTML5
+Q392516,Agence française de sécurité sanitaire des produits de santé
+Q214111,packet
+Q160453,Simple Mail Transfer Protocol
+Q579473,Numericable
+Q193858,International Electrotechnical Commission
+Q3343549,Nordnet
+Q115637,Mobile Station Roaming Number
+Q680268,World Radiocommunication Conference
+Q229804,3rd Generation Partnership Project
+Q160470,Telnet
+Q6501125,ground
+Q223323,root mean square
+Q8795,Internet Protocol
+Q570871,email client
+Q93249,antivirus software
+Q1071978,Réseau Ferré de France
+Q80998,firewall
+Q210214,IPsec
+Q228502,access control
+Q1073235,China Communications Standards Association
+Q59,PHP
+Q431195,IBM Db2
+Q206047,Asynchronous Transfer Mode
+Q1060131,Challenge-Handshake Authentication Protocol
+Q53222,Digital Living Network Alliance
+Q2539,machine learning
+Q1077480,hypervisor
+Q2093,Document Object Model
+Q1054787,Nippon Telegraph and Telephone
+Q1500419,Open Mobile Alliance
+Q79692,3G
+Q202745,neuro-linguistic programming
+Q344266,Active Server Pages
+Q509404,Alcatel-Lucent
+Q193933,dioptre
+Q200647,EPOC
+Q178562,Digital Video Broadcasting
+Q54837,Semantic Web
+Q80535,MIDI
+Q42283,File Transfer Protocol
+Q377539,Kernel-based Virtual Machine
+Q44395,pascal
+Q131566,Institute of Electrical and Electronics Engineers
+Q568494,single sign-on
+Q161618,asymmetric digital subscriber line
+Q2057931,simulator
+Q215179,Point-to-point protocol
+Q6049601,International Conference on Computer Communications
+Q466,World Wide Web
+Q2826678,Agence nationale des fréquences
+Q1340643,master builder
+Q9135,operating system
+Q166936,Internet Message Access Protocol
+Q432394,assisted GNSS
+Q169411,Unified Modeling Language
+Q146768,middleware
+Q15995590,Wireless Broadband Alliance
+Q852835,customer
+Q5289,.NET Framework
+Q47607,Structured Query Language
+Q1135046,secure copy protocol
+Q56315412,eSIM
+Q185796,NTSC
+Q35127,website
+Q236908,Six Sigma
+Q752245,widescreen
+Q338978,Access Point Name_Enable
+Q177765,biometrics
+Q406655,AirDrop
+Q1377194,European Union Agency for Cybersecurity
+Q9492,probability
+Q16876602,Cloud Security Alliance
+Q869830,service-level agreement
+Q211171,polychlorinated biphenyl
+Q3153007,distributed artificial intelligence
+Q380153,Dynamic HTML
+Q7603,GNU General Public License
+Q42253,Uniform Resource Locator
+Q352455,Adaptive Multi-Rate Wideband
+Q191895,RS-232
+Q5329,decibel
+Q387168,C-HTML
+Q16001547,Access stratum
+Q3477337,Secrétariat général de la défense et de la sécurité nationale
+Q1536,Coordinated Universal Time
+Q623338,Web Services Description Language
+Q688702,door-to-door
+Q1537683,Google File System
+Q178127,push-to-talk
+Q219763,MPEG-4
+Q2199289,Géoportail
+Q29120,Apache Hadoop
+Q338992,WAI-ARIA
+Q20072248,Hadoop Distributed Filesystem
+Q11368,Unix
+Q2641430,high-density polyethylene
+Q29643,Wi-Fi
+Q376150,International Telecommunication Union
+Q388,Linux
+Q176165,database management system
+Q9367264,Office of Electronic Communication
+Q32110,XSLT
+Q42591,mp3
+Q128831,Federal Communications Commission
+Q8811,HyperText Markup Language
+Q49150,Remote Desktop Protocol
+Q325421,business-to-business
+Q341,free software
+Q133973,WiMAX
+Q2897746,RJ-48
+Q55692,Active Directory
+Q273902,MPEG-2
+Q135035,Data Encryption Standard
+Q460387,Scrum
+Q1139465,Signalling System No. 7
+Q7350781,megabit per second
+Q3966,computer hardware
+Q5583818,Google Cloud Messaging
+Q836575,quality assurance
+Q1150497,burn down chart
+Q202519,DivX
+Q11278,Hyper-V
+Q485,computer virus
+Q1427899,rack unit
+Q59430415,A3: A Topology Construction Algorithm for Wireless Sensor Networks
+Q8815,ASCII
+Q723685,video on demand
+Q2493,data compression
+Q747499,RADIUS
+Q11163,User Datagram Protocol
+Q207580,Routing Information Protocol
+Q4007363,ITU Telecommunication Standardization Sector
+Q1128649,H.323
+Q228493,access right
+Q1052698,jitter
+Q177234,mainframe computer
+Q208160,courage
+Q2574811,cause
+Q287228,ebXML
+Q1777840,xajax
+Q1061166,data mart
+Q2826642,Agence française de sécurité sanitaire de l'environnement et du travail
+Q1083894,digital terrestrial television
+Q1046079,1G
+Q12203,QR code
+Q39162,open source
+Q2872789,Autorité de Régulation des Communications Électroniques  des Postes et de la Distribution de la Presse
+Q749245,Autonomous System
+Q79578,Google Web Toolkit
+Q1276130,extract  transform  load
+Q19900,Oracle
+Q869370,brute-force attack
+Q2194,Windows Media Audio
+Q54871,SPARQL
+Q916196,Citrix Systems
+Q865817,Java applet
+Q1347847,Central Equipment Identity Register
+Q457396,ambient intelligence
+Q191018,Session Initiation Protocol
+Q42378,Universal Serial Bus
+Q1347627,Global Certification Forum
+Q646089,Consumer Electronics Show
+Q44484,HTTPS
+Q17005322,base transceiver station
+Q422057,Institut national de recherche et de sécurité
+Q337594,c+c+c+c+kf60010630s
+Q15587490,construction client
+Q831677,document management system
+Q870780,chatbot
+Q2115,Extensible Markup Language
+Q79686,Universal Mobile Telecommunications System
+Q11661,information technology
+Q5300,central processing unit
+Q753479,Bootstrap protocol
+Q75,Internet
+Q289,television
+Q249998,signal bandwidth
+Q207434,human–computer interaction
+Q11885120,Vorbis
+Q428933,STUN
+Q188816,Lightweight Directory Access Protocol
+Q146368,polyvinyl chloride
+Q622754,Asterisk
+Q61694,Uniform Resource Identifier
+Q850,MySQL
+Q1224345,differentiated services
+Q3105497,gigabit
+Q8767,Domain Name System
+Q846564,conjunctive normal form
+Q104851,firmware
+Q1411027,Telecommunication Technology Committee
+Q156616,The National Institute of Statistics and Economic Studies
+Q212633,H.264/MPEG-4 AVC
+Q243697,geek
+Q66175,telex
+Q14644,spyware
+Q2072356,Amazon Elastic Compute Cloud
+Q46904,Global System for Mobile Communications
+Q17079392,TSDSI
+Q2944989,Centre commun d'études de télévision et télécommunications
+Q11660,artificial intelligence
+Q3003763,Cross File Transfer
+Q221779,European Conference of Postal and Telecommunications Administrations
+Q215536,merchant
+Q175751,quantum tunneling
+Q2867785,AFNIC
+Q3029579,Direction interministérielle du numérique et du système d’information et de communication (DINSIC)
+Q2994294,GMSK
+Q189436,speech recognition
+Q853645,Universal Disk Format
+Q875932,digital watermarking
+Q5440256,Federal Information Security Management Act of 2002
+Q39369,hertz
+Q184748,codec
+Q515636,FIFO
+Q899288,multicast
+Q4071928,cyberattack
+Q7935151,Virtual Private Cloud
+Q54366,packet analyzer
+Q513675,pharming
+Q1650302,RJ45
+Q166142,application
+Q2826644,French Food Safety Agency
+Q1082861,long wave
+Q431344,ADSL2+
+Q2488884,RJ-11 connectors
+Q191342,LAMP
+Q487343,solid-state drive
+Q636020,Web Accessibility Initiative
+Q5392830,encoder
+Q177518,IPTV
+Q94,Android
+Q2264109,artificial general intelligence
+Q168210,Internet forum
+Q1481411,IT service management
+Q3122864,Big Tech
+Q17370651,Orange cloud for business
+Q173431,CMOS
+Q166074,Extensible HyperText Markup Language
+Q280761,Windows Media Video
+Q264364,Common Gateway Interface
+Q179465,polyphony
+Q4827433,Available Bit Rate
+Q1115586,National Commission on Informatics and Liberty
+Q375673,Jakarta Servlet
+Q692033,digital subscriber line access multiplexer
+Q10290274,Gmsk
+Q77590,civil engineering
+Q15171,Address Resolution Protocol
+Q18979,Kanban
+Q1146165,Extensible Authentication Protocol
+Q167676,sensor
+Q15618663,product backlog
+Q456157,Amazon Web Services
+Q58199,instant messaging
+Q270471,virtualization
+Q134471,Asynchronous JavaScript and XML
+Q691593,Common Object Request Broker Architecture
+Q189620,SOAP
+Q193424,web service
+Q8803,Transmission Control Protocol
+Q11306265,noise
+Q5324680,EXFO
+Q959710,Password Authentication Protocol
+Q826165,Web Ontology Language
+Q17054505,Google Cloud Platform
+Q1572577,product life-cycle management
+Q1224749,Digital Enhanced Cordless Telecommunications
+Q1363408,5G
+Q1359246,Jira
+Q1166273,darknet
+Q228327,access network
+Q171045,Open Virtualization Format
+Q93312,OSI model
+Q7251937,Protocol implementation conformance statement
+Q296643,Association of Radio Industries and Businesses
+Q899383,European Telecommunications Standards Institute
+Q338966,access-control list
+Q2254396,Viaccess
+Q212327,Document Type Definition
+Q5324052,ERMES
+Q1425095,Ogg Tarkin
+Q2826680,National Safe Securities Agency
+Q254183,augmented reality
+Q1125400,Confluence
+Q627335,workflow
+Q1394796,false acceptance rate
+Q2192,Graphics Interchange Format
+Q467707,software development kit
+Q207971,token ring
+Q1752554,Telecommunications Industry Association
+Q837335,Ecma International
+Q79984,Ethernet
+Q302022,ActiveX
+Q1127220,Conseil supérieur de l'audiovisuel
+Q392502,Agence nationale de la sécurité des systèmes d'information
+Q35476,AT&T
+Q251212,internet of things
+Q1135914,event-driven programming
+Q161410,peer-to-peer
+Q1186952,interactive media
+Q15028,International Organization for Standardization
+Q2078,Scalable Vector Graphics
+Q42332,Portable Document Format
+Q221682,semaphore
+Q30682903,data protection officer
+Q658464,Centrino
+Q189223,Turing test
+Q3059271,EtherCalc
+Q18211976,nickel-cadmium
+Q1369503,Estimated Time of Arrival
+Q4732409,Alliance for Telecommunications Industry Solutions
+Q546739,Layer 2 Tunneling Protocol
+Q18822,Global Positioning System
+Q29001086,autonomous system number
+Q1568118,personal information manager
+Q2476929,confidentiality
+Q841645,Internet television
+Q186224,Wireless Application Protocol
+Q58435479,Security Risk Analysis
+Q1201019,proof of concept
+Q81945,Voice over IP
+Q1288390,Label Distribution Protocol
+Q379626,Advanced Message Queuing Protocol
+Q233394,code division multiple access
+Q178051,Portable Network Graphics
+Q15618675,scrum master
+Q846636,software architecture
+Q11288,web server
+Q79738,gigabyte
+Q79697,4G
+Q14149,Internet Group Management Protocol
+Q79703,Long Term Evolution
+Q193321,Java Virtual Machine
+Q488244,Windows Embedded Compact
+Q18833,Microsoft SharePoint
+Q1575,Internet Explorer
+Q1142376,LIFO
+Q2551624,IPv6
+Q4929239,data collection
+Q7096061,Open Grid Forum
+Q49108,Massachusetts Institute of Technology
+Q81414,Internet protocol suite
+Q183169,Jakarta Server Pages
+Q46794,Subversion
+Q1268005,Post Office Protocol
+Q333301,Abstract Syntax Notation One
+Q902751,pressurization
+Q37033,World Wide Web Consortium

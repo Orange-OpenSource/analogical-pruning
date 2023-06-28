@@ -1,0 +1,983 @@
+from,starting label,QID,label,depth,target
+Q847,tennis,Q877517,ball game,1,1
+Q847,tennis,Q2426135,racket sport,1,1
+Q847,tennis,Q56054951,men's tennis,1,1
+Q847,tennis,Q31629,type of sport,1,1
+Q847,tennis,Q47094420,Foam Tennis,1,1
+Q847,tennis,Q1153025,wheelchair tennis,1,1
+Q847,tennis,Q754796,miniature golf,2,0
+Q847,tennis,Q212845,Basque pelota,2,1
+Q847,tennis,Q855880,football tennis,2,1
+Q3407658,tram,Q1562213,freight tram,1,1
+Q3407658,tram,Q5063597,low-floor tram,1,1
+Q3407658,tram,Q15825863,light rail vehicle,1,1
+Q3407658,tram,Q208502,railroad car,1,1
+Q3407658,tram,Q752870,motor vehicle,1,1
+Q3407658,tram,Q1414135,rolling stock,1,1
+Q364,GitHub,Q1668024,service on internet,1,1
+Q364,GitHub,Q3077240,forge,1,1
+Q364,GitHub,Q6881511,enterprise,1,1
+Q364,GitHub,Q5227240,data library,1,1
+Q364,GitHub,Q2910253,Torah database,2,1
+Q312,Apple Inc.,Q6881511,enterprise,1,1
+Q312,Apple Inc.,Q167037,corporation,1,1
+Q312,Apple Inc.,Q4830453,business,1,1
+Q312,Apple Inc.,Q431289,brand,1,1
+Q312,Apple Inc.,Q891723,public company,1,1
+Q312,Apple Inc.,Q18388277,technology company,1,1
+Q312,Apple Inc.,Q1058914,software company,2,1
+Q312,Apple Inc.,Q13637823,Independent hardware vendor,2,1
+Q12725,electricity,Q55605484,bioelectricity,1,1
+Q12725,electricity,Q11379,energy,1,1
+Q12725,electricity,Q1293220,physical phenomenon,1,1
+Q12725,electricity,Q1522115,energy source,1,1
+Q12725,electricity,Q18030772,prise électrique,1,0
+Q12725,electricity,Q351281,sound energy,2,0
+Q12725,electricity,Q11271324,energy transformation,2,1
+Q12725,electricity,Q42213,work,2,0
+Q12725,electricity,Q20058155,solar island,2,0
+Q12725,electricity,Q396045,agricultural energy,2,0
+Q12725,electricity,Q40189366,interstellar radiation field,2,0
+Q12725,electricity,Q360356,Hamiltonian function,2,0
+Q42490,Asterix,Q14406742,comic book series,1,1
+Q918,Twitter,Q620615,mobile app,1,1
+Q918,Twitter,Q92438,microblogging,1,1
+Q918,Twitter,Q3220391,social networking service,1,1
+Q918,Twitter,Q7858627,Twitter usage,2,1
+Q918,Twitter,Q6839279,microblogging in China,2,0
+Q918,Twitter,Q7901759,use of Twitter by public figures,3,1
+Q918,Twitter,Q17710982,Twitterature,3,1
+Q121416,discrete mathematics,Q1936384,area of mathematics,1,1
+Q121416,discrete mathematics,Q92552,Galois theory,2,1
+Q121416,discrete mathematics,Q621550,general topology,2,1
+Q121416,discrete mathematics,Q3968,algebra,2,1
+Q121416,discrete mathematics,Q21028313,global analysis,2,1
+Q121416,discrete mathematics,Q3532114,combinatorial topology,2,1
+Q121416,discrete mathematics,Q56313053,Additive combinatorics,2,1
+Q121416,discrete mathematics,Q1208658,ring theory,2,1
+Q121416,discrete mathematics,Q76592,combinatorics,2,1
+Q121416,discrete mathematics,Q212803,algebraic topology,2,1
+Q121416,discrete mathematics,Q177409,projective geometry,2,1
+Q121416,discrete mathematics,Q7825032,topological dynamics,2,1
+Q121416,discrete mathematics,Q2746792,noncommutative geometry,2,1
+Q121416,discrete mathematics,Q1317202,Hodge theory,2,1
+Q121416,discrete mathematics,Q61793851,noncommutative algebra,2,1
+Q121416,discrete mathematics,Q190549,functional analysis,2,1
+Q180204,shampoo,Q4838457,baby shampoo,1,1
+Q180204,shampoo,Q599755,Garnier,1,1
+Q180204,shampoo,Q11322916,dry shampoo,1,1
+Q180204,shampoo,Q791930,Axe,1,1
+Q180204,shampoo,Q50430027,hair care products,1,1
+Q180204,shampoo,Q11108449,hair dye,2,1
+Q381,Ubuntu,Q5276054,digital commons,1,1
+Q381,Ubuntu,Q72688,Xubuntu,1,1
+Q381,Ubuntu,Q20983788,free operating system,1,1
+Q381,Ubuntu,Q131669,Linux distribution,1,1
+Q381,Ubuntu,Q11250,Kubuntu,1,1
+Q381,Ubuntu,Q12226408,Ubuntu Kylin,1,1
+Q381,Ubuntu,Q27964209,Ubuntu Budgie,1,1
+Q381,Ubuntu,Q18915790,Ubuntu MATE,1,1
+Q381,Ubuntu,Q620615,mobile app,1,0
+Q381,Ubuntu,Q9135,operating system,1,1
+Q3517281,Telecom Nancy,Q4671277,academic institution,1,1
+Q1199743,gradient descent,Q2835765,optimization algorithm,1,1
+Q1199743,gradient descent,Q29410287,Adam optimizer,1,1
+Q1199743,gradient descent,Q2321565,iterative numerical method,1,1
+Q1199743,gradient descent,Q7617819,stochastic gradient descent,1,1
+Q1199743,gradient descent,Q56506809,implicit method,2,0
+Q1199743,gradient descent,Q1476018,Quasi-Newton method,2,0
+Q1199743,gradient descent,Q14489129,evolutionary algorithm,2,0
+Q1199743,gradient descent,Q4380101,projection methods for solving system of linear equations,2,0
+Q1199743,gradient descent,Q1790321,Krylov subspace methods,2,0
+Q2551422,Water damage,Q481609,damage,1,1
+Q2551422,Water damage,Q1132455,hazard,1,1
+Q2551422,Water damage,Q152749,radiation damage,2,0
+Q2551422,Water damage,Q19914521,ground damage,2,0
+Q2551422,Water damage,Q3433179,natural risk,2,1
+Q1139866,Dofus,Q7889,video game,1,1
+Q1139866,Dofus,Q55588631,Pokémon video game,2,0
+Q1139866,Dofus,Q54767,puzzle video game,2,0
+Q1139866,Dofus,Q16021388,alien video game,2,0
+Q1139866,Dofus,Q4485157,PC game,2,1
+Q1139866,Dofus,Q89691527,Xbox Original,2,0
+Q1139866,Dofus,Q65073088,Nintendo Gateway System,2,0
+Q1139866,Dofus,Q67016067,card battle video game,2,0
+Q1139866,Dofus,Q6895044,multiplayer video game,2,1
+Q1139866,Dofus,Q7927920,video games in education,2,0
+Q1139866,Dofus,Q28004621,SMS TV game,2,0
+Q1139866,Dofus,Q116634,online game,2,1
+Q1139866,Dofus,Q958821,LucasArts adventure games,2,0
+Q1139866,Dofus,Q101900049,supernatural video game,2,0
+Q1139866,Dofus,Q14411698,romance game,2,0
+Q1139866,Dofus,Q78444225,Star Trek video game,2,0
+Q159144,Europa-Park,Q194195,amusement park,1,1
+Q159144,Europa-Park,Q875157,resort,1,1
+Q159144,Europa-Park,Q570116,tourist attraction,1,1
+Q848609,Dagobah,Q108059870,Star Wars planet,1,1
+Q129337,TGV,Q13402959,high-speed train,1,1
+Q129337,TGV,Q16858238,train category,1,1
+Q129337,TGV,Q91908084,passenger train service,1,1
+Q129337,TGV,Q167270,trademark,1,1
+Q129337,TGV,Q483373,electric multiple unit,1,1
+Q129337,TGV,Q811704,rolling stock class,1,1
+Q129337,TGV,Q30754613,TGV inOui,1,1
+Q129337,TGV,Q1049958,SNCF TGV POS,2,1
+Q129337,TGV,Q432478,Automotrice à grande vitesse,2,1
+Q129337,TGV,Q928468,TGV Réseau,2,1
+Q129337,TGV,Q60442637,rapid transit train service,2,1
+Q129337,TGV,Q2205965,list of Belgian railway services,2,0
+Q129337,TGV,Q15079663,rapid transit railway line,3,1
+Q2746070,Canelé,Q477248,pastry,1,1
+Q2746070,Canelé,Q3778467,gubana,2,1
+Q2746070,Canelé,Q273426,éclair,2,1
+Q2746070,Canelé,Q251981,crisp bread,2,0
+Q2746070,Canelé,Q871619,bear claw,2,1
+Q2746070,Canelé,Q28416788,Lotus seed paste cake,2,1
+Q2746070,Canelé,Q856330,cracker,2,0
+Q2746070,Canelé,Q105675701,,2,0
+Q2746070,Canelé,Q5183361,Cream horn,2,1
+Q2746070,Canelé,Q13266,cookie,2,1
+Q2746070,Canelé,Q870362,rice bread,2,0
+Q2746070,Canelé,Q1660010,Christmas cookies,2,1
+Q2746070,Canelé,Q1073041,coconut bar,2,1
+Q2746070,Canelé,Q12192991,meskouta,2,1
+Q2746070,Canelé,Q208729,nougat,2,0
+Q2746070,Canelé,Q3535552,Tourteau fromagé,2,0
+Q2746070,Canelé,Q1014883,Burger Brezel,2,0
+Q508256,Bastille,Q11670533,elevated station,1,1
+Q508256,Bastille,Q928830,metro station,1,1
+Q508256,Bastille,Q22808403,station located underground,1,1
+Q2813,Coca-Cola,Q431289,brand,1,1
+Q2813,Coca-Cola,Q147538,soft drink,1,1
+Q2813,Coca-Cola,Q41084,New Coke,1,1
+Q2813,Coca-Cola,Q134041,cola,1,1
+Q2813,Coca-Cola,Q1104949,Coca Colla,2,1
+Q2813,Coca-Cola,Q5759783,Highway,2,1
+Q2813,Coca-Cola,Q19799634,model of calculator,2,0
+Q2813,Coca-Cola,Q20888692,camera brand,2,0
+Q2813,Coca-Cola,Q12311058,Fanta Free Orange,2,1
+Q2813,Coca-Cola,Q264554,carbonated water,2,1
+Q2813,Coca-Cola,Q2300409,Premium-Cola,2,1
+Q2813,Coca-Cola,Q97322777,Oasis,2,1
+Q2813,Coca-Cola,Q5873161,refreshing drink,2,1
+Q2813,Coca-Cola,Q98579904,tractor brand,2,0
+Q2813,Coca-Cola,Q623561,Dr Pepper,2,1
+Q2813,Coca-Cola,Q937783,Coca-Cola Zero,2,1
+Q2813,Coca-Cola,Q50425277,diet cola,2,1
+Q2813,Coca-Cola,Q59185742,Craft soda,2,1
+Q2813,Coca-Cola,Q896,Mountain Dew,2,1
+Q2813,Coca-Cola,Q1815345,Diet Coke,3,1
+Q2813,Coca-Cola,Q28127283,Coca-Cola Zero Sugar,3,1
+Q718,chess,Q1188693,mind sport,1,1
+Q718,chess,Q5093314,Chess aesthetics,1,1
+Q718,chess,Q131436,board game,1,1
+Q718,chess,Q7858742,two-player game,1,1
+Q718,chess,Q4438147,game-based sport,1,1
+Q718,chess,Q573573,abstract strategy game,1,1
+Q718,chess,Q287618,sequential game,1,1
+Q718,chess,Q299191,chess variant,1,1
+Q718,chess,Q2755547,individual sport,1,1
+Q718,chess,Q41595400,mind game,1,1
+Q718,chess,Q31629,type of sport,1,1
+Q718,chess,Q80131,poker,2,0
+Q718,chess,Q816261,jogging,2,0
+Q718,chess,Q229398,three-dimensional chess,2,1
+Q718,chess,Q933844,three-player chess,2,1
+Q335827,Directorate-General for External Security,Q47913,intelligence agency,1,1
+Q8539,The Big Bang Theory,Q5398426,television series,1,1
+Q324254,ontology,Q1172480,data model,1,1
+Q324254,ontology,Q56316745,application ontology,1,1
+Q324254,ontology,Q593744,knowledge base,1,1
+Q324254,ontology,Q7554009,soft ontology,1,1
+Q324254,ontology,Q1437388,formal ontology,1,1
+Q324254,ontology,Q1397073,data schema,1,1
+Q324254,ontology,Q62210692,OWL ontology,1,1
+Q324254,ontology,Q56316737,domain ontology,1,1
+Q324254,ontology,Q7449052,semantic data model,2,1
+Q324254,ontology,Q5378800,Enhanced entity–relationship model,2,1
+Q324254,ontology,Q2262868,domain model,2,1
+Q324254,ontology,Q1751819,RDF Schema,2,1
+Q40898,Nancy,Q484170,commune of France,1,1
+Q40898,Nancy,Q1549591,big city,1,1
+Q80131,poker,Q953223,stud poker,1,1
+Q80131,poker,Q13586511,Dealer's choice,1,1
+Q80131,poker,Q1050367,online poker,1,1
+Q80131,poker,Q1188693,mind sport,1,1
+Q80131,poker,Q2072000,Three card poker,1,1
+Q80131,poker,Q497397,video poker,1,1
+Q80131,poker,Q142714,card game,1,1
+Q80131,poker,Q1073718,Chinese poker,1,1
+Q80131,poker,Q718,chess,2,0
+Q1474517,French National Institute of Health and Medical Research,Q13582798,Public Scientific and Technical Research Establishment,1,1
+Q1474517,French National Institute of Health and Medical Research,Q31855,research institute,1,1
+Q4173330,University of Lorraine,Q1542938,grand établissement,1,1
+Q4173330,University of Lorraine,Q3551775,university in France,1,1
+Q243,Eiffel Tower,Q1440476,lattice tower,1,1
+Q243,Eiffel Tower,Q570116,tourist attraction,1,1
+Q243,Eiffel Tower,Q1440300,observation tower,1,1
+Q243,Eiffel Tower,Q107096063,Landmark tower,2,1
+Q243,Eiffel Tower,Q804399,Blaw-Knox tower,2,0
+Q1060165,Riot Games,Q210167,video game developer,1,1
+Q11020,pool,Q2312410,sports discipline,1,1
+Q11020,pool,Q3341285,cue sports,1,1
+Q11020,pool,Q2060479,eight-ball,1,1
+Q11020,pool,Q5179579,Cowboy pool,1,1
+Q11020,pool,Q10526896,Hugg,2,0
+Q11020,pool,Q94619648,women's team pursuit,2,0
+Q11020,pool,Q917562,carom billiards,2,1
+Q11020,pool,Q40679812,running target shooting,2,0
+Q11020,pool,Q96679888,sport discipline at a sport event,2,0
+Q11020,pool,Q2072840,CrossFit,2,0
+Q11020,pool,Q27907674,girls' singles,2,0
+Q11020,pool,Q5100758,Chinese eight-ball,2,1
+Q11020,pool,Q4208733,Kaisa,2,1
+Q11020,pool,Q52177345,field sport,2,0
+Q11020,pool,Q11015,snooker,2,1
+Q11020,pool,Q27907692,girls' doubles,2,0
+Q11020,pool,Q455347,variation of basketball,2,0
+Q11020,pool,Q94620117,men's team pursuit,2,0
+Q11020,pool,Q5580558,golf billiards,2,1
+Q11020,pool,Q677423,drifting,2,0
+Q11020,pool,Q5728609,spanish pool,2,1
+Q11020,pool,Q50386068,youth mixed doubles,2,0
+Q11020,pool,Q27907702,boys' singles,2,0
+Q11020,pool,Q3062992,F3f,2,0
+Q11020,pool,Q967318,Blackball,2,1
+Q11020,pool,Q27907716,boys' doubles,2,0
+Q11020,pool,Q1324916,English billiards,2,1
+Q11020,pool,Q94535288,1500m femmes en patinage de vitesse,2,0
+Q11020,pool,Q2165733,Snooker plus,3,1
+Q11020,pool,Q512270,Five-pin billiards,3,1
+Q52,Wikipedia,Q1293664,open content,1,1
+Q52,Wikipedia,Q14827288,Wikimedia project,1,1
+Q52,Wikipedia,Q615699,Internet encyclopedia,1,1
+Q52,Wikipedia,Q15633582,MediaWiki website,1,1
+Q52,Wikipedia,Q107307154,virtual place,1,1
+Q52,Wikipedia,Q81311730,Miraheze website,2,0
+Q52,Wikipedia,Q95948776,Le Dico des Ados,2,0
+Q52,Wikipedia,Q11853682,open encyclopedia,2,1
+Q52,Wikipedia,Q33120867,Wikimedia wiki,2,1
+Q52,Wikipedia,Q33120876,Wikimedia content project,2,1
+Q52,Wikipedia,Q263,Wikisource,2,1
+Q180,Wikimedia Foundation,Q2166013,wiki hosting service,1,1
+Q180,Wikimedia Foundation,Q708676,charitable organization,1,1
+Q180,Wikimedia Foundation,Q157031,foundation,1,1
+Q1152227,pharmacogenomics,Q28598684,branch of biology,1,1
+Q1152227,pharmacogenomics,Q222046,genomics,1,1
+Q1152227,pharmacogenomics,Q99397804,branch of zoology,2,0
+Q1152227,pharmacogenomics,Q841450,toxicogenomics,2,1
+Q1152227,pharmacogenomics,Q1147112,comparative genomics,2,1
+Q1152227,pharmacogenomics,Q3381973,phylogenomics,2,0
+Q1152227,pharmacogenomics,Q104193250,branch of ecology,2,0
+Q1152227,pharmacogenomics,Q17002728,branch of botany,2,0
+Q1152227,pharmacogenomics,Q62722214,branch of genetics,2,1
+Q1152227,pharmacogenomics,Q2091816,computational genomics,2,1
+Q1152227,pharmacogenomics,Q7322390,ribonomics,2,1
+Q1152227,pharmacogenomics,Q1068690,functional genomics,2,1
+Q1152227,pharmacogenomics,Q7170583,personal genomics,2,1
+Q1152227,pharmacogenomics,Q903778,metagenomics,2,1
+Q1152227,pharmacogenomics,Q104415895,branch of paleontology,2,0
+Q1152227,pharmacogenomics,Q25303637,neurogenomics,3,1
+Q462,Star Wars,Q431289,brand,1,1
+Q462,Star Wars,Q19786787,Archduke of Geonosis,1,1
+Q462,Star Wars,Q196600,media franchise,1,1
+Q33959,Nice,Q484170,commune of France,1,1
+Q33959,Nice,Q1549591,big city,1,1
+Q231136,Encarta,Q13419255,hypertext encyclopedia,1,1
+Q231136,Encarta,Q7397,software,1,1
+Q9340,Google Drive,Q1668024,service on internet,1,1
+Q9340,Google Drive,Q35127,website,1,1
+Q9340,Google Drive,Q1343205,file hosting service,1,1
+Q9340,Google Drive,Q914359,cloud storage,1,1
+Q9340,Google Drive,Q166142,application,1,1
+Q9340,Google Drive,Q16972647,Google Chrome App,2,1
+Q9340,Google Drive,Q847906,online magazine,2,0
+Q9340,Google Drive,Q3751111,medical software,2,0
+Q9340,Google Drive,Q17074646,personal cloud,2,1
+Q9340,Google Drive,Q101191533,online catalog,2,0
+Q9340,Google Drive,Q25325314,Elastic cloud storage,2,1
+Q9340,Google Drive,Q16988367,CloudLocker,3,1
+Q1484375,PyCharm,Q467707,software development kit,1,1
+Q1484375,PyCharm,Q13741,integrated development environment,1,1
+Q1484375,PyCharm,Q341,free software,1,1
+Q1484375,PyCharm,Q10334075,Mxmlc,2,0
+Q159992,surfing,Q61065,water sport,1,1
+Q159992,surfing,Q842595,big wave surfing,1,1
+Q159992,surfing,Q1434370,River surfing,1,1
+Q159992,surfing,Q31629,type of sport,1,1
+Q159992,surfing,Q911069,boardsport,1,1
+Q159992,surfing,Q14085739,sailing,2,1
+Q159992,surfing,Q2533407,surf lifesaving,2,0
+Q159992,surfing,Q60967807,Aquaplaning sport,2,1
+Q159992,surfing,Q31920,swimming,2,1
+Q159992,surfing,Q2369170,underwater sports,2,1
+Q159992,surfing,Q178131,snowboarding,2,0
+Q159992,surfing,Q7735,diving,2,1
+Q159992,surfing,Q159354,rowing,2,1
+Q159992,surfing,Q842284,skateboarding,2,0
+Q22907849,Discord,Q40056,computer program,1,1
+Q22907849,Discord,Q28051323,video-conferencing software,1,1
+Q22907849,Discord,Q15614021,VoIP software,1,1
+Q22907849,Discord,Q1668024,service on internet,1,1
+Q22907849,Discord,Q2462003,instant messaging client,1,1
+Q22907849,Discord,Q35127,website,1,1
+Q22907849,Discord,Q620615,mobile app,1,1
+Q22907849,Discord,Q218616,proprietary software,1,1
+Q22907849,Discord,Q287198,online chat,1,1
+Q22907849,Discord,Q3220391,social networking service,1,1
+Q22907849,Discord,Q84368158,health app,2,0
+Q22907849,Discord,Q466,World Wide Web,2,0
+Q22907849,Discord,Q15548100,free instant messaging client,2,1
+Q22907849,Discord,Q3391957,online community platform,2,1
+Q22907849,Discord,Q109946538,Rocket League Sideswipe,2,0
+Q22907849,Discord,Q1954906,music disk,2,0
+Q22907849,Discord,Q63241860,streaming service,2,1
+Q22907849,Discord,Q105103015,demo program,2,0
+Q22907849,Discord,Q16825545,adult dating site,2,0
+Q22907849,Discord,Q60678830,Smartphone apps for travellers,2,0
+Q22907849,Discord,Q81945,Voice over IP,2,1
+Q22907849,Discord,Q1149226,web chat,2,1
+Q22907849,Discord,Q354869,image sharing,2,1
+Q22907849,Discord,Q574577,chat room,2,1
+Q22907849,Discord,Q106471136,Wikimedia app,2,0
+Q22907849,Discord,Q17589204,FootballDatabase.eu,2,0
+Q900647,Côte d'Opale,Q1466699,partie de littoral,1,1
+Q12014035,hiking,Q2357239,sports tourism,1,1
+Q12014035,hiking,Q1914636,activity,1,1
+Q12014035,hiking,Q968907,outdoor recreation,1,1
+Q12014035,hiking,Q184872,recreation,1,1
+Q12014035,hiking,Q349,sport,1,1
+Q12014035,hiking,Q6537379,walking,1,1
+Q12014035,hiking,Q61788060,human activity,1,1
+Q12014035,hiking,Q747883,physical activity,2,1
+Q131476,graph theory,Q18205998,circuit topology,1,1
+Q131476,graph theory,Q4671286,academic major,1,1
+Q131476,graph theory,Q4115842,topological graph theory,1,1
+Q131476,graph theory,Q3180727,spectral graph theory,1,1
+Q131476,graph theory,Q381009,chemical graph theory,1,1
+Q131476,graph theory,Q1503271,geometric graph theory,1,1
+Q131476,graph theory,Q17737,theory,1,1
+Q131476,graph theory,Q1936384,area of mathematics,1,1
+Q131476,graph theory,Q4417999,network analysis,1,1
+Q131476,graph theory,Q11862829,academic discipline,1,1
+Q131476,graph theory,Q5416712,Event chain methodology,2,0
+Q131476,graph theory,Q5004188,bypass,2,0
+Q131476,graph theory,Q20026918,mathematical theory,2,1
+Q13646,SNCF,Q2324835,national railway,1,1
+Q13646,SNCF,Q249556,railway company,1,1
+Q13646,SNCF,Q23043008,Krasnoliman Directorate of Railway Transportation,2,1
+Q28785,Sacré-Cœur,Q120560,minor basilica,1,1
+Q28785,Sacré-Cœur,Q16970,church building,1,1
+Q28785,Sacré-Cœur,Q1530022,religious organization,1,1
+Q28785,Sacré-Cœur,Q570116,tourist attraction,1,1
+Q68,computer,Q11019,machine,1,1
+Q68,computer,Q1662611,IT system,1,1
+Q68,computer,Q241317,computing platform,1,1
+Q105674,running,Q2312410,sports discipline,1,1
+Q105674,running,Q2167372,mountain running,1,1
+Q105674,running,Q3694563,snowshoe running,1,1
+Q105674,running,Q2093999,trail running,1,1
+Q105674,running,Q349,sport,1,1
+Q105674,running,Q12014207,trekking,2,1
+Q105674,running,Q902378,equestrian sport,2,0
+Q105674,running,Q212434,Olympic sport,2,1
+Q105674,running,Q17080486,Twirling,2,0
+Q105674,running,Q792635,axe throwing,2,0
+Q105674,running,Q15621650,skiing,2,0
+Q195,chocolate,Q25403900,food ingredient,1,1
+Q195,chocolate,Q2596997,condiment,1,1
+Q195,chocolate,Q181042,Kinder Surprise,1,1
+Q195,chocolate,Q1365365,stimulant foodstuff,1,1
+Q195,chocolate,Q23461185,organic chocolate,1,1
+Q195,chocolate,Q5159627,confection,1,1
+Q195,chocolate,Q1063560,chocolate truffle,1,1
+Q195,chocolate,Q757388,Milka,1,1
+Q195,chocolate,Q752276,functional food,1,1
+Q195,chocolate,Q895177,bouquet garni,2,0
+Q195,chocolate,Q18547489,Thasian sauce,2,0
+Q195,chocolate,Q13261,hot chocolate,2,1
+Q195,chocolate,Q10987,honey,2,0
+Q195,chocolate,Q41354,vinegar,2,0
+Q195,chocolate,Q167893,mayonnaise,2,0
+Q118398,arXiv,Q5281480,disciplinary repository,1,1
+Q118398,arXiv,Q35127,website,1,1
+Q118398,arXiv,Q7094076,online database,1,1
+Q118398,arXiv,Q52990223,open science tool,1,1
+Q118398,arXiv,Q45787211,preprint server,1,1
+Q118398,arXiv,Q16002093,video aggregator,2,0
+Q118398,arXiv,Q1294318,online book,2,0
+Q118398,arXiv,Q21606686,scientific website,2,1
+Q118398,arXiv,Q213369,webcomic,2,0
+Q118398,arXiv,Q6542714,library website,2,1
+Q118398,arXiv,Q33270324,genealogy website,2,0
+Q118398,arXiv,Q107316103,developer website,2,0
+Q118398,arXiv,Q1350108,fansite,2,0
+Q118398,arXiv,Q16001076,3D printing marketplace,2,0
+Q133215,casino,Q16852719,casino hotel,1,1
+Q133215,casino,Q7338100,Riverboat casino,1,1
+Q133215,casino,Q32350958,bingo hall,1,1
+Q133215,casino,Q7279719,racino,1,1
+Q133215,casino,Q655686,commercial building,1,1
+Q133215,casino,Q6664710,Locals casino,1,1
+Q133215,casino,Q770881,online casino,1,1
+Q643290,RATP,Q740752,transport company,1,1
+Q325904,breadth-first search,Q907955,graph traversal,1,1
+Q325904,breadth-first search,Q4443425,uninformed search algorithm,1,1
+Q325904,breadth-first search,Q755673,search algorithm,1,1
+Q325904,breadth-first search,Q7009111,heuristic search algorithm,2,1
+Q325904,breadth-first search,Q1210082,tree traversal,2,1
+Q325904,breadth-first search,Q1969601,pathfinding,2,1
+Q746413,Elsevier BV,Q737498,academic journal,1,1
+Q746413,Elsevier BV,Q2085381,publisher,1,1
+Q746413,Elsevier BV,Q1320047,book publisher,1,1
+Q2539,machine learning,Q17013334,feature learning,1,1
+Q2539,machine learning,Q21198,computer science,1,1
+Q2539,machine learning,Q192776,artificial neural network,1,1
+Q2539,machine learning,Q6027324,transfer learning,1,1
+Q2539,machine learning,Q378859,pattern recognition,1,1
+Q2539,machine learning,Q11660,artificial intelligence,1,1
+Q2539,machine learning,Q1152135,unsupervised learning,1,1
+Q2539,machine learning,Q11862829,academic discipline,1,1
+Q2539,machine learning,Q64811550,Ocean Resource Management and Policy,2,0
+Q2539,machine learning,Q20722857,Deep Q-Network,2,1
+Q2539,machine learning,Q108366200,graduate specialization,2,1
+Q2539,machine learning,Q4875410,Bayesian confidence propagation neural network,2,1
+Q2539,machine learning,Q40890078,Explainable AI,2,1
+Q2539,machine learning,Q5064071,cerebellar model articulation controller,2,0
+Q2539,machine learning,Q1936384,area of mathematics,2,1
+Q2539,machine learning,Q64809896,International Business and Marketing,2,0
+Q2539,machine learning,Q64808211,Urban and Regional Planning,2,0
+Q2539,machine learning,Q5441227,feedforward neural network,2,1
+Q2539,machine learning,Q87058424,branch of geology,2,0
+Q2539,machine learning,Q64809114,Media and Communication,2,0
+Q2539,machine learning,Q4740894,fish disease and parasites,2,0
+Q2539,machine learning,Q55693875,International Economic Relationships,2,0
+Q2539,machine learning,Q7617824,stochastic neural network,2,1
+Q2539,machine learning,Q55693892,Fishery and Aquaculture,2,0
+Q2539,machine learning,Q85810444,transformer,2,1
+Q2539,machine learning,Q54811238,graph convolutional network,2,1
+Q2539,machine learning,Q55693888,Bulgarian Philology,2,0
+Q2539,machine learning,Q64800607,Pacific Literature,2,0
+Q2539,machine learning,Q30642,natural language processing,2,1
+Q2539,machine learning,Q4387017,mathematical sciences,2,1
+Q2539,machine learning,Q3478658,knowledge representation and reasoning,2,1
+Q2539,machine learning,Q55441204,3D-convolutional neural network,2,1
+Q2539,machine learning,Q19935939,branch of geography,2,0
+Q2539,machine learning,Q66816419,Royal Marines School,2,0
+Q2539,machine learning,Q5514059,symbolic artificial intelligence,2,1
+Q2539,machine learning,Q64806752,Special and Inclusive Education,2,0
+Q2539,machine learning,Q2991667,multilayer perceptron,3,1
+Q2539,machine learning,Q1948408,text segmentation,3,1
+Q2539,machine learning,Q690207,perceptron,3,1
+Q196538,microscope,Q96782348,scanning probe microscope,1,1
+Q196538,microscope,Q54167390,lucernal microscope,1,1
+Q196538,microscope,Q1751850,optical instrument,1,1
+Q196538,microscope,Q901823,ultramicroscope,1,1
+Q196538,microscope,Q1463415,inverted microscope,1,1
+Q196538,microscope,Q7187868,Photonic force microscope,1,1
+Q196538,microscope,Q17092661,Recurrence tracking microscope,1,1
+Q196538,microscope,Q1981926,Neutron microscope,1,1
+Q196538,microscope,Q8320,optical printer,2,0
+Q196538,microscope,Q5396251,erygmascope,2,0
+Q196538,microscope,Q15328,camera,2,0
+Q171545,Belfort,Q484170,commune of France,1,1
+Q51746,Luke Skywalker,Q15632617,fictional human,1,1
+Q51746,Luke Skywalker,Q33125444,character from Star Wars,1,1
+Q51746,Luke Skywalker,Q15773347,film character,1,1
+Q51746,Luke Skywalker,Q22074477,cyborg in a work of fiction,1,1
+Q51746,Luke Skywalker,Q11334882,Pokémon Professor,2,0
+Q51746,Luke Skywalker,Q5199354,Cylon,2,0
+Q51746,Luke Skywalker,Q220652,Borg,2,0
+Q51746,Luke Skywalker,Q2265657,Phalanx,2,0
+Q51746,Luke Skywalker,Q3008212,Cyberman,2,0
+Q51746,Luke Skywalker,Q5769360,Cimek,2,0
+Q51746,Luke Skywalker,Q930062,Toa,2,0
+Q51746,Luke Skywalker,Q853715,Dalek,2,0
+Q51746,Luke Skywalker,Q2351172,Evangelion,2,0
+Q2283,Microsoft,Q1058914,software company,1,1
+Q2283,Microsoft,Q891723,public company,1,1
+Q2283,Microsoft,Q18388277,technology company,1,1
+Q2283,Microsoft,Q4830453,business,1,1
+Q2283,Microsoft,Q13637823,Independent hardware vendor,2,1
+Q12130,Brittany,Q3502482,cultural region,1,1
+Q12130,Brittany,Q36784,region of France,1,1
+Q12130,Brittany,Q42261736,cultural areas of indigenous North Americans,2,0
+Q12130,Brittany,Q104117291,region of Spain,2,0
+Q12130,Brittany,Q28332,overseas region,2,0
+Q12130,Brittany,Q20719642,current region of France,2,1
+Q188273,Ubisoft,Q210167,video game developer,1,1
+Q188273,Ubisoft,Q1137109,video game publisher,1,1
+Q188273,Ubisoft,Q891723,public company,1,1
+Q188273,Ubisoft,Q43229,organization,1,1
+Q188273,Ubisoft,Q21428095,Union d’économie sociale,2,0
+Q188273,Ubisoft,Q3029536,direction départementale des territoires,2,0
+Q188273,Ubisoft,Q5163232,Consistory,2,0
+Q188273,Ubisoft,Q255632,cathedral works,2,0
+Q188273,Ubisoft,Q1193702,parliamentary opposition,2,0
+Q188273,Ubisoft,Q5419285,examination board,2,0
+Q188273,Ubisoft,Q7248095,professional services network,2,0
+Q188273,Ubisoft,Q681615,syndicate,2,0
+Q188273,Ubisoft,Q55597159,Groupe de médecine de famille,2,0
+Q188273,Ubisoft,Q18534571,medical research center,2,0
+Q188273,Ubisoft,Q108873226,Clandestine Organization,2,0
+Q188273,Ubisoft,Q7157353,peace commission,2,0
+Q188273,Ubisoft,Q47533065,disability organization,2,0
+Q188273,Ubisoft,Q96603167,tourism agency,2,0
+Q188273,Ubisoft,Q65177617,Unification movement (Unification Church),2,0
+Q188273,Ubisoft,Q100975433,arts residency,2,0
+Q188273,Ubisoft,Q11507286,Association japonaise de littérature pour enfants,2,0
+Q188273,Ubisoft,Q1032372,hackerspace,2,0
+Q188273,Ubisoft,Q4810155,Association with lucrative purpose,2,0
+Q188273,Ubisoft,Q3184737,cathedral chapter,2,0
+Q188273,Ubisoft,Q3480110,Service d'inspection,2,0
+Q188273,Ubisoft,Q1502514,cooperative movement,2,0
+Q188273,Ubisoft,Q3029462,specialized directorates of fiscal control,2,0
+Q188273,Ubisoft,Q106509528,Polish House,2,0
+Q188273,Ubisoft,Q6515414,student welfare organisation,2,0
+Q188273,Ubisoft,Q16985923,Independent Monitoring Board,2,0
+Q188273,Ubisoft,Q88199136,trésorerie auprès des ambassades,2,0
+Q188273,Ubisoft,Q2069741,Matha,2,0
+Q188273,Ubisoft,Q5774403,historical society,2,0
+Q188273,Ubisoft,Q2820266,abbaye (association),2,0
+Q188273,Ubisoft,Q101067829,agricultural extension system,2,0
+Q188273,Ubisoft,Q33114024,exile organization,2,0
+Q188273,Ubisoft,Q63437139,software project,2,1
+Q188273,Ubisoft,Q996839,fraternal organization,2,0
+Q188273,Ubisoft,Q83425186,NHS board,2,0
+Q188273,Ubisoft,Q65051450,Cycling organization,2,0
+Q188273,Ubisoft,Q2801262,hacker group,2,0
+Q188273,Ubisoft,Q106765575,order,2,0
+Q188273,Ubisoft,Q877724,Seniorat,2,0
+Q188273,Ubisoft,Q96983545,cycle repair shop,2,0
+Q188273,Ubisoft,Q3023650,social rental office,2,0
+Q188273,Ubisoft,Q2955972,chancellerie des universités,2,0
+Q37501,eyeglasses,Q2143661,corrective lens,1,1
+Q37501,eyeglasses,Q5096292,Chicken eyeglasses,1,0
+Q37501,eyeglasses,Q15978715,smartglasses,1,1
+Q37501,eyeglasses,Q1065579,costume accessory,1,1
+Q37501,eyeglasses,Q2332595,cataract glasses,1,1
+Q37501,eyeglasses,Q575092,Google Glass,2,1
+Q37501,eyeglasses,Q23797,contact lens,2,0
+Q37501,eyeglasses,Q12721,monocle,2,1
+Q37501,eyeglasses,Q244570,pince-nez,2,1
+Q1431486,Orange,Q6881511,enterprise,1,1
+Q1431486,Orange,Q1941618,mobile network operator,1,1
+Q1431486,Orange,Q431289,brand,1,1
+Q1431486,Orange,Q4830453,business,1,1
+Q1431486,Orange,Q1266169,telephone company,1,1
+Q1431486,Orange,Q891723,public company,1,1
+Q1431486,Orange,Q11371,Internet service provider,1,1
+Q1431486,Orange,Q6887204,mobile phone operator,2,1
+Q1431486,Orange,Q2585571,wireless Internet service provider,2,1
+Q16820462,Borderlands,Q7058673,video game series,1,1
+Q1273376,E.Leclerc,Q844526,Group purchasing organization,1,1
+Q1273376,E.Leclerc,Q6881511,enterprise,1,1
+Q1273376,E.Leclerc,Q43229,organization,1,1
+Q1273376,E.Leclerc,Q4830453,business,1,1
+Q1273376,E.Leclerc,Q1936090,Parlements,2,0
+Q1273376,E.Leclerc,Q3591573,établissement public foncier,2,0
+Q1273376,E.Leclerc,Q562166,housing cooperative,2,0
+Q1273376,E.Leclerc,Q2111762,machine shop,2,0
+Q1273376,E.Leclerc,Q786820,automobile manufacturer,2,0
+Q1273376,E.Leclerc,Q388570,film laboratory,2,0
+Q1273376,E.Leclerc,Q12309784,Elklub,2,0
+Q1273376,E.Leclerc,Q814610,emergency service,2,0
+Q1273376,E.Leclerc,Q6819536,merit shop,2,0
+Q1273376,E.Leclerc,Q8772125,Editorial Anagrama,2,0
+Q38076,McDonald’s,Q44492843,McDonald's Beynost,1,1
+Q38076,McDonald’s,Q6881511,enterprise,1,1
+Q38076,McDonald’s,Q4830453,business,1,1
+Q38076,McDonald’s,Q891723,public company,1,1
+Q38076,McDonald’s,Q167270,trademark,1,1
+Q38076,McDonald’s,Q18509232,fast food restaurant chain,1,1
+Q38076,McDonald’s,Q76384698,ammunication factory,2,0
+Q38076,McDonald’s,Q64514542,parking lot company,2,0
+Q38076,McDonald’s,Q14942280,petrochemical company,2,0
+Q38076,McDonald’s,Q1195245,beauty salon,2,0
+Q38076,McDonald’s,Q1132207,business incubator,2,0
+Q38076,McDonald’s,Q107171122,Made in Hungary,2,0
+Q38076,McDonald’s,Q12817454,agricultural firm,2,0
+Q38076,McDonald’s,Q19509097,cigarette brand,2,0
+Q38076,McDonald’s,Q55635949,tobacco factory,2,0
+Q38076,McDonald’s,Q30765558,cement company,2,0
+Q38076,McDonald’s,Q11032,newspaper,2,0
+Q38076,McDonald’s,Q161726,multinational corporation,2,1
+Q38076,McDonald’s,Q64583968,artist management,2,0
+Q38076,McDonald’s,Q2534781,event management company,2,0
+Q38076,McDonald’s,Q88985865,eating or drinking establishment,2,1
+Q38076,McDonald’s,Q967140,media agency,2,0
+Q38076,McDonald’s,Q105547053,UK cable company,2,0
+Q38076,McDonald’s,Q3661311,fashion house,2,0
+Q38076,McDonald’s,Q133744,tour operator,2,0
+Q38076,McDonald’s,Q96603167,tourism agency,2,0
+Q38076,McDonald’s,Q10691563,taxicab company,2,0
+Q38076,McDonald’s,Q1369723,Web Agency,2,0
+Q38076,McDonald’s,Q25112142,dental service organization,2,0
+Q38076,McDonald’s,Q1058914,software company,2,0
+Q38076,McDonald’s,Q110484183,cigarette company,2,0
+Q38076,McDonald’s,Q770881,online casino,2,0
+Q38076,McDonald’s,Q786820,automobile manufacturer,2,0
+Q38076,McDonald’s,Q27038993,food establishment,2,1
+Q38076,McDonald’s,Q1331793,media company,2,0
+Q38076,McDonald’s,Q1341478,energy company,2,0
+Q38076,McDonald’s,Q7246213,private intelligence agency,2,0
+Q38076,McDonald’s,Q3487908,venture capital firm,2,0
+Q38076,McDonald’s,Q2085381,publisher,2,0
+Q38076,McDonald’s,Q20015305,large business,2,1
+Q38076,McDonald’s,Q109729298,art dealer,2,0
+Q38076,McDonald’s,Q19644607,pharmaceutical company,2,0
+Q38076,McDonald’s,Q80359036,alcohol brand,2,0
+Q38076,McDonald’s,Q25461160,syndicate,2,0
+Q38076,McDonald’s,Q1529128,postal service,2,0
+Q38076,McDonald’s,Q2914704,advertising network,2,0
+Q38076,McDonald’s,Q3537883,Transporteur routier,2,0
+Q38076,McDonald’s,Q476118,reinsurance,2,0
+Q38076,McDonald’s,Q14635346,multi-channel network,2,0
+Q38076,McDonald’s,Q104807662,cathedral in the desert,2,0
+Q38076,McDonald’s,Q4387609,architectural firm,2,0
+Q38076,McDonald’s,Q1756711,video rental shop,2,0
+Q38076,McDonald’s,Q1520069,bottling company,2,0
+Q38076,McDonald’s,Q2519914,brand name,2,1
+Q38076,McDonald’s,Q95598830,Large scale enterprises,2,1
+Q38076,McDonald’s,Q20488450,mobile phone series,2,0
+Q38076,McDonald’s,Q5346803,social business,2,0
+Q38076,McDonald’s,Q56876011,private corporation,2,1
+Q38076,McDonald’s,Q1200676,design agency,2,0
+Q38076,McDonald’s,Q18388277,technology company,2,0
+Q38076,McDonald’s,Q23670565,professional services firm,2,0
+Q38076,McDonald’s,Q811930,construction business,2,0
+Q38076,McDonald’s,Q15634581,design company,2,0
+Q38076,McDonald’s,Q90302516,tobacco company,2,0
+Q38076,McDonald’s,Q16274795,shipbuilding company,2,0
+Q38076,McDonald’s,Q1917775,music publishing company,2,0
+Q38076,McDonald’s,Q11294827,camera manufacturer,2,0
+Q38076,McDonald’s,Q748645,shipping agent,2,0
+Q38076,McDonald’s,Q5465569,Foodservice distributor,2,1
+Q38076,McDonald’s,Q765517,credit rating agency,2,0
+Q38076,McDonald’s,Q2401749,telecommunication company,2,0
+Q38076,McDonald’s,Q5384579,Equipment rental,2,0
+Q38076,McDonald’s,Q2961813,local TV channel,2,0
+Q38076,McDonald’s,Q101049500,Biscuiterie,2,0
+Q38076,McDonald’s,Q2442401,record company,2,0
+Q38076,McDonald’s,Q3307920,console manufacturer,2,0
+Q38076,McDonald’s,Q3117865,hotel group,2,0
+Q38076,McDonald’s,Q3842318,Made in Italy,2,0
+Q38076,McDonald’s,Q3063988,Made in France,2,0
+Q38076,McDonald’s,Q11885129,artist agency,2,0
+Q38076,McDonald’s,Q63020365,tiny forest,2,0
+Q38076,McDonald’s,Q4116756,Tourism in Saudi Arabia,2,0
+Q38076,McDonald’s,Q1466031,funeral home,2,0
+Q38076,McDonald’s,Q30899001,software distributor,2,0
+Q38076,McDonald’s,Q1266169,telephone company,2,0
+Q38076,McDonald’s,Q771063,dating agency,2,0
+Q38076,McDonald’s,Q946499,cruise line,2,0
+Q38076,McDonald’s,Q721067,professional wrestling promotion,2,0
+Q38076,McDonald’s,Q3393867,seafood market,2,0
+Q38076,McDonald’s,Q811404,Bauhof,2,0
+Q38076,McDonald’s,Q1057214,private military company,2,0
+Q38076,McDonald’s,Q920671,parapharmacy,2,0
+Q38076,McDonald’s,Q2538889,weapons manufacturing company,2,0
+Q38076,McDonald’s,Q45069022,skateboarding company,2,0
+Q38076,McDonald’s,Q30103124,hospital group,2,0
+Q38076,McDonald’s,Q936518,aerospace manufacturer,2,0
+Q38076,McDonald’s,Q1318768,snack bar,2,1
+Q38076,McDonald’s,Q507443,pharmaceutical industry,2,0
+Q38076,McDonald’s,Q22687,bank,2,0
+Q38076,McDonald’s,Q108915260,sexual entertainment venue,2,0
+Q38076,McDonald’s,Q1757263,moving company,2,0
+Q38076,McDonald’s,Q1116826,private security company,2,0
+Q38076,McDonald’s,Q3579160,newspaper publisher,2,0
+Q38076,McDonald’s,Q1817883,furniture manufacturer,2,0
+Q38076,McDonald’s,Q60770436,Deep tech,2,0
+Q38076,McDonald’s,Q8007048,nail salon,2,0
+Q38076,McDonald’s,Q5466628,for-profit corporation,2,1
+Q38076,McDonald’s,Q1137109,video game publisher,2,0
+Q38076,McDonald’s,Q2990216,mining company,2,0
+Q38076,McDonald’s,Q613142,law firm,2,0
+Q38076,McDonald’s,Q102167691,Communist Chinese Military Companies,2,0
+Q38076,McDonald’s,Q97579135,piano manufacturing company,2,0
+Q38076,McDonald’s,Q27555350,entreprise de génie civil,2,0
+Q38076,McDonald’s,Q18127,record label,2,0
+Q38076,McDonald’s,Q29885033,cosmetics manufacturer,2,0
+Q38076,McDonald’s,Q7257732,public electricity supplier,2,0
+Q38076,McDonald’s,Q291240,car rental company,2,0
+Q38076,McDonald’s,Q1406985,transmission system operator for gas,2,0
+Q548319,kouign-amann,Q13276,cake,1,1
+Q548319,kouign-amann,Q7802,bread,1,1
+Q1224715,dblp computer science bibliography,Q193424,web service,1,1
+Q1224715,dblp computer science bibliography,Q35127,website,1,1
+Q1224715,dblp computer science bibliography,Q43229,organization,1,1
+Q1224715,dblp computer science bibliography,Q1789476,bibliographic database,1,1
+Q1224715,dblp computer science bibliography,Q19967801,online service,2,1
+Q1224715,dblp computer science bibliography,Q27881073,fake news website,2,0
+Q1224715,dblp computer science bibliography,Q1482252,Semantic Web Service,2,0
+Q1224715,dblp computer science bibliography,Q25380332,Kiev Archaeographic Commission,2,0
+Q1224715,dblp computer science bibliography,Q1149226,web chat,2,0
+Q1224715,dblp computer science bibliography,Q20653619,Zone to Defend,2,0
+Q1224715,dblp computer science bibliography,Q1436061,Coopérative d'utilisation de matériel agricole,2,0
+Q1224715,dblp computer science bibliography,Q16519632,scientific organization,2,1
+Q8333,Federal Bureau of Investigation,Q20858006,federal law enforcement agency of the United States,1,1
+Q8333,Federal Bureau of Investigation,Q20857065,United States federal agency,1,1
+Q8333,Federal Bureau of Investigation,Q47913,intelligence agency,1,1
+Q30299483,Inria Nancy - Grand-Est research centre,Q483242,laboratory,1,1
+Q30299483,Inria Nancy - Grand-Est research centre,Q13226383,facility,1,1
+Q30299483,Inria Nancy - Grand-Est research centre,Q7315155,research center,1,1
+Q30299483,Inria Nancy - Grand-Est research centre,Q67140793,nursery,2,0
+Q30299483,Inria Nancy - Grand-Est research centre,Q47524436,swimming area,2,0
+Q30299483,Inria Nancy - Grand-Est research centre,Q89578131,radar station,2,0
+Q30299483,Inria Nancy - Grand-Est research centre,Q11560645,waste management facility,2,0
+Q30299483,Inria Nancy - Grand-Est research centre,Q57504458,port infrastructure,2,0
+Q30299483,Inria Nancy - Grand-Est research centre,Q47519912,bicycle repair station,2,0
+Q30299483,Inria Nancy - Grand-Est research centre,Q57951700,research site,2,1
+Q35996,Mazda,Q431289,brand,1,1
+Q35996,Mazda,Q891723,public company,1,1
+Q35996,Mazda,Q10429667,car brand,1,1
+Q35996,Mazda,Q786820,automobile manufacturer,1,1
+Q168403,myopia,Q55789206,syndromic myopia,1,1
+Q168403,myopia,Q470427,refractive error,1,1
+Q168403,myopia,Q737460,visual impairment,1,1
+Q168403,myopia,Q18554189,degenerative myopia,1,1
+Q168403,myopia,Q2634782,low vision,2,1
+Q168403,myopia,Q177895,astigmatism,2,1
+Q168403,myopia,Q2470609,Wagner's disease,2,1
+Q168403,myopia,Q18554630,irregular astigmatism,3,1
+Q7935239,Virtuoso Universal Server,Q3539533,triplestore,1,1
+Q7935239,Virtuoso Universal Server,Q3932296,relational database management system,1,1
+Q7935239,Virtuoso Universal Server,Q1130645,open-source software,1,1
+Q7935239,Virtuoso Universal Server,Q215819,Microsoft SQL Server,2,1
+Q7935239,Virtuoso Universal Server,Q319417,SQLite,2,1
+Q3214499,LORIA,Q3550864,mixed research unit,1,1
+Q392500,Agence Nationale de la Recherche,Q3244038,public establishment of an administrative nature,1,1
+Q392500,Agence Nationale de la Recherche,Q3591561,public cultural cooperation establishment,2,0
+Q392500,Agence Nationale de la Recherche,Q2826708,Agence régionale de santé,2,0
+Q392500,Agence Nationale de la Recherche,Q18706221,district,2,0
+Q392500,Agence Nationale de la Recherche,Q3006228,crédit municipal,2,0
+Q392500,Agence Nationale de la Recherche,Q423790,urban community,2,0
+Q392500,Agence Nationale de la Recherche,Q3412210,pôle métropolitain,2,0
+Q392500,Agence Nationale de la Recherche,Q423785,community of communes,2,0
+Q392500,Agence Nationale de la Recherche,Q51704864,national public establishment of an administrative nature,2,1
+Q392500,Agence Nationale de la Recherche,Q20089159,pôle d'équilibre territorial et rural,2,0
+Q83363,jeans,Q3237209,Levi's 501,1,1
+Q83363,jeans,Q39908,trousers,1,1
+Q83363,jeans,Q17119191,ripped jeans,1,1
+Q83363,jeans,Q3377759,Wide leg jeans,1,1
+Q83363,jeans,Q18088270,dress trousers,2,1
+Q83363,jeans,Q3530132,tobi trousers,2,1
+Q83363,jeans,Q1074407,chinos,2,1
+Q83363,jeans,Q618998,skinny jeans,2,1
+Q83363,jeans,Q15133790,culottes,2,0
+Q83363,jeans,Q7133943,parachute pants,2,0
+Q6588,Périgueux,Q484170,commune of France,1,1
+Q174320,oscilloscope,Q2425052,electrical appliance,1,1
+Q174320,oscilloscope,Q2041172,measuring instrument,1,1
+Q174320,oscilloscope,Q831990,electrical part,2,0
+Q614362,Orange Livebox,Q3407440,wireless router,1,1
+Q614362,Orange Livebox,Q1155692,DSL modem,1,1
+Q614362,Orange Livebox,Q2424752,product,1,1
+Q614362,Orange Livebox,Q11228705,L-03E,2,1
+Q614362,Orange Livebox,Q2877513,BT Home Hub,2,1
+Q614362,Orange Livebox,Q11191179,BF-01D,2,1
+Q223127,Logitech,Q6881511,enterprise,1,1
+Q223127,Logitech,Q4830453,business,1,1
+Q223127,Logitech,Q431289,brand,1,1
+Q223127,Logitech,Q891723,public company,1,1
+Q223127,Logitech,Q18388277,technology company,1,1
+Q223127,Logitech,Q1058914,software company,2,1
+Q223127,Logitech,Q13637823,Independent hardware vendor,2,1
+Q28406404,Microsoft Teams,Q28051323,video-conferencing software,1,1
+Q28406404,Microsoft Teams,Q2462003,instant messaging client,1,1
+Q28406404,Microsoft Teams,Q474157,collaborative software,1,1
+Q28406404,Microsoft Teams,Q19967801,online service,1,1
+Q28406404,Microsoft Teams,Q734413,LAN messenger,2,0
+Q28406404,Microsoft Teams,Q7705753,test automation management tool,2,0
+Q28406404,Microsoft Teams,Q15548100,free instant messaging client,2,1
+Q28406404,Microsoft Teams,Q12313595,collaborative real-time editor,2,1
+Q28406404,Microsoft Teams,Q28135300,Workplace from Meta,2,0
+Q207472,Toto,Q5741069,rock group,1,1
+Q864693,chicken meat,Q10990,meat,1,1
+Q864693,chicken meat,Q56311389,Poulet des Cévennes,1,1
+Q864693,chicken meat,Q18087876,poultry,1,1
+Q864693,chicken meat,Q4200953,turkey meat,2,1
+Q864693,chicken meat,Q5752993,donkey meat,2,0
+Q864693,chicken meat,Q542042,duck meat,2,1
+Q864693,chicken meat,Q14473756,poussin,2,1
+Q209330,Instagram,Q2721136,image hosting service,1,1
+Q209330,Instagram,Q35127,website,1,1
+Q209330,Instagram,Q620615,mobile app,1,1
+Q209330,Instagram,Q3220391,social networking service,1,1
+Q209330,Instagram,Q559856,online video platform,1,1
+Q209330,Instagram,Q110643339,adult tube site,2,0
+Q209330,Instagram,Q60784896,Internet audio-visual programming service provider,2,0
+Q1847641,human facial hair,Q15179,moustache,1,1
+Q1847641,human facial hair,Q1784017,secondary sex characteristic,1,1
+Q1847641,human facial hair,Q43748,eyebrow,1,0
+Q1847641,human facial hair,Q18534278,facial feature,1,1
+Q1847641,human facial hair,Q3326291,handlebar moustache,2,1
+Q1847641,human facial hair,Q17141430,pencil moustache,2,1
+Q1847641,human facial hair,Q7963760,walrus moustache,2,1
+Q1847641,human facial hair,Q17013040,Facial symmetry,2,0
+Q1847641,human facial hair,Q5906082,horseshoe moustache,2,1
+Q1847641,human facial hair,Q1790542,pattes d'oie,2,0
+Q1847641,human facial hair,Q5506845,Fu Manchu moustache,2,1
+Q1847641,human facial hair,Q1068553,facial skeleton,2,0
+Q1847641,human facial hair,Q5431487,fake moustache,2,1
+Q1847641,human facial hair,Q5428568,facial resemblance,2,0
+Q244030,Diablo III,Q7889,video game,1,1
+Q244030,Diablo III,Q6895044,multiplayer video game,2,1
+Q244030,Diablo III,Q6561427,console game,2,1
+Q244030,Diablo III,Q54767,puzzle video game,2,0
+Q244030,Diablo III,Q4485157,PC game,2,1
+Q244030,Diablo III,Q78444225,Star Trek video game,2,0
+Q201664,bracelet,Q7538697,Slap bracelet,1,1
+Q201664,bracelet,Q7120070,POW bracelet,1,1
+Q201664,bracelet,Q4470686,decoration,1,1
+Q201664,bracelet,Q16839772,Gel bracelet,1,1
+Q201664,bracelet,Q488720,charm bracelet,1,1
+Q201664,bracelet,Q1455890,friendship bracelet,1,1
+Q201664,bracelet,Q3575260,bijou,1,1
+Q201664,bracelet,Q46847,ring,2,1
+Q201664,bracelet,Q2111434,pendant,2,1
+Q201664,bracelet,Q161439,jewelry,2,1
+Q201664,bracelet,Q11796413,decoration,2,1
+Q1200183,Fiber to the home,Q121359,infrastructure,1,1
+Q1200183,Fiber to the home,Q586034,Fiber to the x,1,1
+Q1200183,Fiber to the home,Q7257917,Public infrastructure,2,1
+Q1200183,Fiber to the home,Q594593,IT infrastructure,2,1
+Q1200183,Fiber to the home,Q1438053,research infrastructure,2,0
+Q1200183,Fiber to the home,Q1817119,ICT infrastructure,2,0
+Q1200183,Fiber to the home,Q108792154,hydro-electric power scheme,2,0
+Q1200183,Fiber to the home,Q3456887,logistic network,2,0
+Q1200183,Fiber to the home,Q15411548,computing infrastructure,2,0
+Q1200183,Fiber to the home,Q1144084,utility pole,2,0
+Q1200183,Fiber to the home,Q10677200,municipal broadband,2,0
+Q23572,Game of Thrones,Q5398426,television series,1,1
+Q337535,Steam,Q81989119,video game distribution platform,1,1
+Q337535,Steam,Q58199,instant messaging,1,1
+Q337535,Steam,Q192532,digital rights management,1,0
+Q337535,Steam,Q1334294,software repository,1,1
+Q337535,Steam,Q3559933,Live support software,2,0
+Q337535,Steam,Q4110622,videochat,2,0
+Q337535,Steam,Q8048052,Yamigo,2,0
+Q9798,saxophone,Q181247,woodwind instrument,1,1
+Q9798,saxophone,Q55738874,single clarinets with conical bore,1,1
+Q8548,Dijkstra's algorithm,Q8366,algorithm,1,1
+Q8548,Dijkstra's algorithm,Q30503704,graph algorithm,1,1
+Q8548,Dijkstra's algorithm,Q504353,greedy algorithm,1,1
+Q8548,Dijkstra's algorithm,Q21595855,pathfinding algorithm,1,1
+Q8548,Dijkstra's algorithm,Q179613,flooding algorithm,2,0
+Q8548,Dijkstra's algorithm,Q11660,artificial intelligence,2,1
+Q8548,Dijkstra's algorithm,Q4443425,uninformed search algorithm,2,1
+Q1146208,Institut National de Recherche en Informatique et en Automatique,Q13582798,Public Scientific and Technical Research Establishment,1,1
+Q2,Earth,Q128207,terrestrial planet,1,1
+Q2,Earth,Q3504248,inner planet of the Solar System,1,1
+Q2,Earth,Q82794,geographic region,1,1
+Q2,Earth,Q486972,human settlement,2,1
+Q2,Earth,Q198782,tropical cyclone basin,2,0
+Q2,Earth,Q10535394,informal region,2,0
+Q2,Earth,Q205895,landmass,2,1
+Q2,Earth,Q1140140,mainland,2,0
+Q2,Earth,Q947362,zone de protection paysagère de Sopron,2,0
+Q2,Earth,Q2670101,Earth analog,2,1
+Q2,Earth,Q327757,super-Earth,2,1
+Q2,Earth,Q399984,hemisphere of the Earth,2,1
+Q2,Earth,Q15129745,sub-Earth,2,1
+Q2,Earth,Q1200957,tourist destination,2,0
+Q2,Earth,Q7925010,vice-county,2,0
+Q14922,table football,Q1368898,game of skill,1,1
+Q14922,table football,Q1637219,speedcubing,2,0
+Q14922,table football,Q2904494,birinic,2,0
+Q14922,table football,Q21426954,bague en boghei,2,0
+Q14922,table football,Q1302771,Egg-and-spoon race,2,0
+Q14922,table football,Q1342518,Penny football,2,1
+Q14922,table football,Q21503645,lancer de sabot de Pont-Aven,2,0
+Q14922,table football,Q895060,boules,2,0
+Q95,Google,Q891723,public company,1,1
+Q95,Google,Q18388277,technology company,1,1
+Q95,Google,Q4830453,business,1,1
+Q95,Google,Q1058914,software company,2,1
+Q95,Google,Q13637823,Independent hardware vendor,2,1
+Q1636958,Xiaomi,Q891723,public company,1,1
+Q1636958,Xiaomi,Q167037,corporation,1,1
+Q1636958,Xiaomi,Q4830453,business,1,1
+Q1636958,Xiaomi,Q76384698,ammunication factory,2,0
+Q1636958,Xiaomi,Q1057214,private military company,2,0
+Q1636958,Xiaomi,Q8303885,trust company,2,0
+Q1636958,Xiaomi,Q7311343,religious corporation,2,0
+Q1636958,Xiaomi,Q1186164,corporate spin-off,2,0
+Q1636958,Xiaomi,Q745829,Yagi-Uda antenna,2,0
+Q1636958,Xiaomi,Q75971206,private tax collector,2,0
+Q1636958,Xiaomi,Q69574371,bicycle part manufacturing company,2,0
+Q1636958,Xiaomi,Q161726,multinational corporation,2,1
+Q1636958,Xiaomi,Q27043907,yoga studio,2,0
+Q1636958,Xiaomi,Q59545,labour hire,2,0
+Q1636958,Xiaomi,Q2401749,telecommunication company,2,1
+Q1636958,Xiaomi,Q1116826,private security company,2,0
+Q1636958,Xiaomi,Q3055260,French company,2,0
+Q1636958,Xiaomi,Q41617857,plug compatible manufacturer,2,0
+Q1636958,Xiaomi,Q101049500,Biscuiterie,2,0
+Q1636958,Xiaomi,Q76362921,saw blade factory,2,0
+Q1636958,Xiaomi,Q110484183,cigarette company,2,0
+Q1636958,Xiaomi,Q216931,advertising agency,2,0
+Q1636958,Xiaomi,Q27038993,food establishment,2,0
+Q1636958,Xiaomi,Q672070,photographic studio,2,0
+Q1636958,Xiaomi,Q30022,coffeehouse,2,0
+Q1636958,Xiaomi,Q6819536,merit shop,2,0
+Q1636958,Xiaomi,Q3537883,Transporteur routier,2,0
+Q1636958,Xiaomi,Q5225895,public limited company,2,0
+Q1636958,Xiaomi,Q2590801,commercial cleaning,2,0
+Q2905238,BlaBlaCar,Q783794,company,1,1
+Q2905238,BlaBlaCar,Q3391957,online community platform,1,1
+Q38695,cooking,Q16920758,food and drink preparation,1,1
+Q38695,cooking,Q19862406,business,1,1
+Q38695,cooking,Q61788060,human activity,1,1
+Q38695,cooking,Q17082653,candy making,2,1
+Q1437394,formal concept analysis,Q185698,methodology,1,1
+Q1437394,formal concept analysis,Q2670999,investment strategy,2,0
+Q1437394,formal concept analysis,Q1193625,social science methodology,2,0
+Q1437394,formal concept analysis,Q1378470,software development methodology,2,0
+Q1437394,formal concept analysis,Q179012,project management,2,0
+Q1437394,formal concept analysis,Q2292993,design method,2,0
+Q1437394,formal concept analysis,Q21045430,inferring horizontal gene transfer,2,0
+Q1437394,formal concept analysis,Q1196545,historical method,2,0
+Q1437394,formal concept analysis,Q65938634,quality control method,2,0
+Q76592,combinatorics,Q2985062,analytic combinatorics,1,1
+Q76592,combinatorics,Q336787,enumerative combinatorics,1,1
+Q76592,combinatorics,Q5535478,geometric combinatorics,1,1
+Q76592,combinatorics,Q6029708,Infinitary combinatorics,1,1
+Q76592,combinatorics,Q3532114,combinatorial topology,1,1
+Q76592,combinatorics,Q56313053,Additive combinatorics,1,1
+Q76592,combinatorics,Q1936384,area of mathematics,1,1
+Q76592,combinatorics,Q5422299,extremal combinatorics,1,1
+Q76592,combinatorics,Q1005603,algebraic combinatorics,1,1
+Q280413,National Center for Scientific Research,Q13582798,Public Scientific and Technical Research Establishment,1,1
+Q280413,National Center for Scientific Research,Q31855,research institute,1,1
+Q280413,National Center for Scientific Research,Q3726309,state research institution,1,1
+Q280413,National Center for Scientific Research,Q45400320,open-access publisher,1,1
+Q280413,National Center for Scientific Research,Q20820271,graduate school,2,0
+Q17130715,Slack,Q620615,mobile app,1,1
+Q17130715,Slack,Q2462003,instant messaging client,1,1
+Q17130715,Slack,Q166142,application,1,1
+Q17130715,Slack,Q43229,organization,1,1
+Q17130715,Slack,Q96196009,state (former or current),2,0
+Q17130715,Slack,Q15548100,free instant messaging client,2,1
+Q17130715,Slack,Q58542,multi protocol instant messaging clients,2,1
+Q17130715,Slack,Q65177617,Unification movement (Unification Church),2,0
+Q17130715,Slack,Q10417670,IRC client,2,1
+Q17130715,Slack,Q3023650,social rental office,2,0
+Q17130715,Slack,Q63477924,mission régionale d'autorité environnementale,2,0
+Q17130715,Slack,Q87712822,moral subject of administrative law in France,2,0
+Q17130715,Slack,Q1132944,Science shop,2,0
+Q17130715,Slack,Q2401485,expedition,2,0
+Q17130715,Slack,Q15505266,Login manager,2,0
+Q777,Google Chrome,Q6368,web browser,1,1
+Q777,Google Chrome,Q845620,mobile browser,1,1
+Q777,Google Chrome,Q266990,Netscape,2,1
+Q777,Google Chrome,Q18348827,headless browser,2,0
+Q777,Google Chrome,Q18156733,surf,2,1
+Q777,Google Chrome,Q15477174,web browser based on Firefox,2,1
+Q777,Google Chrome,Q7708379,text-based web browser,2,1
+Q777,Google Chrome,Q13733263,Internet Explorer 11,2,1
+Q777,Google Chrome,Q900604,addres,2,0
+Q180704,Iron Man,Q15632617,fictional human,1,1
+Q180704,Iron Man,Q15773347,film character,1,1
+Q180704,Iron Man,Q1114461,comics character,1,1
