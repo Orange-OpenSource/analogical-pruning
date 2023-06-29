@@ -70,7 +70,7 @@ We have two such hashmaps:
 
 ## Available datasets
 
-Datasets are also available on [Zenodo]().
+Datasets are also available on [Zenodo](https://doi.org/10.5281/zenodo.8091584).
 
 | Dataset                   | # Seed QIDs | # Labeled decisions | # Prune decisions | Min prune depth | Max prune depth | # Keep decisions | Min keep depth | Max keep depth | # Reached nodes up | # Reached nodes down |
 |---------------------------|-------------|---------------------|-------------------|-----------------|-----------------|------------------|----------------|----------------|--------------------|----------------------|
@@ -673,7 +673,14 @@ with:
 When citing, please use the following reference:
 
 ```
-TBD
+@misc{jarnac2023relevant,
+      title={Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning}, 
+      author={Lucas Jarnac and Miguel Couceiro and Pierre Monnin},
+      year={2023},
+      eprint={2306.16296},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 ```
 
 ## Maintainers
