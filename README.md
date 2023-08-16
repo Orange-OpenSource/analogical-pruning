@@ -673,13 +673,16 @@ with:
 When citing, please use the following reference:
 
 ```
-@misc{jarnac2023relevant,
-      title={Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning}, 
-      author={Lucas Jarnac and Miguel Couceiro and Pierre Monnin},
-      year={2023},
-      eprint={2306.16296},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@inproceedings{jarnacCM2023,
+  author       = {Lucas Jarnac and 
+                  Miguel Couceiro and 
+                  Pierre Monnin},
+  title        = {Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning},
+  booktitle    = {Proceedings of the 32nd {ACM} International Conference on Information and Knowledge Management (CIKM '23), October 21--25, 2023, Birmingham, United Kingdom},
+  publisher    = {{ACM}},
+  year         = {2023},
+  url          = {https://doi.org/10.1145/3583780.3615030},
+  doi          = {10.1145/3583780.3615030},
 }
 ```
 
