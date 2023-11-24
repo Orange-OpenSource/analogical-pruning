@@ -93,19 +93,19 @@ Each dataset folder contains
 Performs the same expansion as ``down_expansion.py`` from a set of seed QIDs but prunes sub-classes with a analogy-based convolutional model.
 
 ```
-python analogy_pruning.py --wikidata WIKIDATA --seed-qids QIDS --embeddings EMBEEDINGS --decisions DECISIONS --epochs EPOCHS --output-statistics OUTPUT --voting VOTING --voting-threshold THRESHOLD --distances-hashmap DISTANCES --knn KNN --nb-training-analogies-per-decision TRAINING_ANALOGIES --nb-test-analogies TEST_ANALOGIES --nb-keeping-in-test KEEPING_ANALOGIES --nb-pruning-in-test PRUNING_ANALOGIES --analogical-properties PROPERTIES --valid-analogies-pattern VALID_PATTERN --invalid-analogies-pattern INVALID_PATTERN --dropout DROPOUT --nb-filters1 FILTERS1 --nb-filters2 FILTERS2 --learning-rate LEARNING_RATE
+python analogy_pruning.py --wikidata WIKIDATA --seed-qids QIDS --embeddings EMBEEDINGS --decisions DECISIONS --epochs EPOCHS --output-statistics OUTPUT --relevant-entities RELEVANT_ENTITIES --voting VOTING --voting-threshold THRESHOLD --knn KNN --nb-training-analogies-per-decision TRAINING_ANALOGIES --nb-test-analogies TEST_ANALOGIES --nb-keeping-in-test KEEPING_ANALOGIES --nb-pruning-in-test PRUNING_ANALOGIES --analogical-properties PROPERTIES --valid-analogies-pattern VALID_PATTERN --invalid-analogies-pattern INVALID_PATTERN --node-degree NODE_DEGREE --analogy-batch ANALOGY_BATCH --dropout DROPOUT --nb-filters1 FILTERS1 --nb-filters2 FILTERS2 --learning-rate LEARNING_RATE
 ```
 
 with
 * ``QIDS``: a CSV file containing one QID per line (not the complete URL, just the QID, no header)
 * ``WIKIDATA``: path to the folder in which the Wikidata LMDB hashmap is stored
 * ``OUTPUT``: path of the CSV file where statistics of the down expansion will be stored
+* ``RELEVANT_ENTITIES``: path of the JSON file where relevant entities will be stored ({"QID": ["Q1", "Q2", ...], ...})
 * ``EMBEDDINGS``: path to the folder in which the embeddings LMDB hashmap is stored
 * ``DECISIONS``: set of labeled decisions which is used for training the model
 * ``EPOCHS``: number of epochs to train the model
 * ``VOTING``: strategy of voting (majority or weighted)
 * ``THRESHOLD``: value in [0, 1] that takes the decision if an analogy is either valid or invalid
-* ``DISTANCES``: path to the folder in which the pairwise distances between seed QIDs LMDB hashmap is stored
 * ``KNN``: apply K-Nearest-Neighbors on the train set, the test set, both or none
 * ``TRAINING_ANALOGIES``: number of training analogies per decision
 * ``TEST_ANALOGIERS``: number of testing analogies per decision
@@ -114,6 +114,8 @@ with
 * ``PROPERTIES``: properties to consider to build the analogies (training and test set) among relfexivity, inner-symmetry, or symmetry
 * ``VALID_PATTERN``: valid pattern of analogies
 * ``INVALID_PATTERN``: invalid pattern of analogies
+* ``NODE_DEGREE``: node degree to limit the selection of entities from classes not exceeding that degree
+* ``ANALOGY_BATCH``: batch size to speed up predictions
 * ``DROPOUT``: rate of neurons dropout after each convolutional layer
 * ``FILTERS1``: number of filters in first convolutional layer
 * ``FILTERS2``: number of filters in second convolutional layer
@@ -213,19 +215,19 @@ with
 Performs the same expansion as ``down_expansion.py`` from a set of seed QIDs but prunes sub-classes with a analogy-based convolutional model.
 
 ```
-python sequence_analogy_pruning.py --wikidata WIKIDATA --seed-qids QIDS --embeddings EMBEEDINGS --decisions DECISIONS --epochs EPOCHS --output-statistics OUTPUT --voting VOTING --voting-threshold THRESHOLD --distances-hashmap DISTANCES --knn KNN --nb-training-analogies-per-decision TRAINING_ANALOGIES --nb-test-analogies TEST_ANALOGIES --nb-keeping-in-test KEEPING_ANALOGIES --nb-pruning-in-test PRUNING_ANALOGIES --sequenced-decisions SEQUENCED_DECISIONS --sequence-length SEQ_LENGTH --padding PADDING --analogical-properties PROPERTIES --valid-analogies-pattern VALID_PATTERN --invalid-analogies-pattern INVALID_PATTERN --dropout DROPOUT --nb-filters1 FILTERS1 --nb-filters2 FILTERS2 --learning-rate LEARNING_RATE
+python sequence_analogy_pruning.py --wikidata WIKIDATA --seed-qids QIDS --embeddings EMBEEDINGS --decisions DECISIONS --epochs EPOCHS --output-statistics OUTPUT --relevant-entities RELEVANT_ENTITIES --voting VOTING --voting-threshold THRESHOLD --knn KNN --nb-training-analogies-per-decision TRAINING_ANALOGIES --nb-test-analogies TEST_ANALOGIES --nb-keeping-in-test KEEPING_ANALOGIES --nb-pruning-in-test PRUNING_ANALOGIES --sequenced-decisions SEQUENCED_DECISIONS --sequence-length SEQ_LENGTH --padding PADDING --analogical-properties PROPERTIES --valid-analogies-pattern VALID_PATTERN --invalid-analogies-pattern INVALID_PATTERN --node-degree NODE_DEGREE --analogy-batch ANALOGY_BATCH --dropout DROPOUT --nb-filters1 FILTERS1 --nb-filters2 FILTERS2 --learning-rate LEARNING_RATE
 ```
 
 with
 * ``QIDS``: a CSV file containing one QID per line (not the complete URL, just the QID, no header)
 * ``WIKIDATA``: path to the folder in which the Wikidata LMDB hashmap is stored
 * ``OUTPUT``: path of the CSV file where statistics of the down expansion will be stored
+* ``RELEVANT_ENTITIES``: path of the JSON file where relevant entities will be stored ({"QID": ["Q1", "Q2", ...], ...})
 * ``EMBEDDINGS``: path to the folder in which the embeddings LMDB hashmap is stored
 * ``DECISIONS``: set of labeled decisions which is used for training the model
 * ``EPOCHS``: number of epochs to train the model
 * ``VOTING``: strategy of voting (majority or weighted)
 * ``THRESHOLD``: value in [0, 1] that takes the decision if an analogy is either valid or invalid
-* ``DISTANCES``: path to the folder in which the pairwise distances between seed QIDs LMDB hashmap is stored
 * ``KNN``: apply K-Nearest-Neighbors on the train set, the test set, both or none
 * ``TRAINING_ANALOGIES``: number of training analogies per decision
 * ``TEST_ANALOGIERS``: number of testing analogies per decision
@@ -237,6 +239,8 @@ with
 * ``PROPERTIES``: properties to consider to build the analogies (training and test set) among relfexivity, inner-symmetry, or symmetry
 * ``VALID_PATTERN``: valid pattern of analogies
 * ``INVALID_PATTERN``: invalid pattern of analogies
+* ``NODE_DEGREE``: node degree to limit the selection of entities from classes not exceeding that degree
+* ``ANALOGY_BATCH``: batch size to speed up predictions
 * ``DROPOUT``: rate of neurons dropout after each convolutional layer
 * ``FILTERS1``: number of filters in first convolutional layer
 * ``FILTERS2``: number of filters in second convolutional layer

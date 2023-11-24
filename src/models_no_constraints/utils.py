@@ -26,22 +26,16 @@ def get_hashmap_content(key, hashmap):
     return content
 
 
-def get_hashmap_distances(key, hashmap, train_decisions):
-    """ """
-    obj = hashmap.get(key.encode("ascii"))
+def get_hashmap_distances(key, train_decisions, embedding_hashmap):
+    emb = get_hashmap_content(WIKIDATA_PREFIX + key + ">", embedding_hashmap)
     distances = None
     train_decisions_with_distances = train_decisions.copy()
     distances = []
-    if obj:
-        content = pickle.loads(obj)
-        for ind, row in train_decisions.iterrows():
-            if row["from"] in content:
-                distances.append(content[row["from"]])
-            else:
-                train_decisions_with_distances.drop(ind, inplace=True)
+    for _, row in train_decisions.iterrows():
+        seed_emb = get_hashmap_content(WIKIDATA_PREFIX + row["from"] + ">", embedding_hashmap)
+        distances.append(euclidean_distance(seed_emb, emb))
     train_decisions_with_distances["distances"] = distances
     train_decisions_with_distances = train_decisions_with_distances.sort_values(by=["distances"])
-
     return train_decisions_with_distances.values.tolist()
 
 
